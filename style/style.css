@@ -1,0 +1,13 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  margin: 5%;
+  padding: 10px;
+}
+.sahabul {
+  width: 150px;
+  border: 2px solid tomato;
+}
+.sifat{
+  border: 2px solid red;
+  width: 200px;
+}
